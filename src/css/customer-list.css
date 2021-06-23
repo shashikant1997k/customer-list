@@ -1,0 +1,36 @@
+.th__data {
+  font-weight: 600 !important;
+}
+
+.name {
+  font-weight: 600 !important;
+  cursor: pointer;
+}
+
+.tablRow {
+  cursor: pointer;
+}
+
+.min,
+.max {
+  color: #aaa;
+}
+
+.min:hover,
+.max:hover {
+  opacity: 0.8;
+}
+
+.active {
+  color: #000 !important;
+}
+
+.customer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.custname {
+  margin-left: 10px;
+}
