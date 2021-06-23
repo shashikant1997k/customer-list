@@ -1,0 +1,13 @@
+.BidsDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuname {
+  margin-left: 17px;
+  margin-top: 8px;
+  font-size: 1.2em;
+  font-weight: 500;
+}
