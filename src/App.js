@@ -5,7 +5,7 @@ import BidsDetails from "./Component/BidsDetails";
 
 function App() {
   return (
-    <Router>
+    <Router basename={"/customer-list/"}>
       <Switch>
         <Route exact path="/">
           <div className="App">
